@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="STRING">
+      <UniqueIdentifier>{afddf316-79de-4a62-8a8a-009f5b17b3b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ENGINE">
+      <UniqueIdentifier>{c0e90386-e3e7-4bf5-bb1d-f16d0bf3b7e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ENGINE\GRAPHICENGINE">
+      <UniqueIdentifier>{1ab3c046-0dd4-4c63-9d54-bb9224ceed3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ENGINE\PLAYERENGINE">
+      <UniqueIdentifier>{18b2435a-0b19-42d4-a44b-d099c30c151e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ENGINE\GAMEANIENGINE">
+      <UniqueIdentifier>{7f18b21d-5d54-4c48-8c3d-79087a5099dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ENGINE\MONSTERENGINE">
+      <UniqueIdentifier>{dca6e3e7-2ed3-4018-8cf9-784f4701ad49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ENGINE\COLLIDERENGINE">
+      <UniqueIdentifier>{d411799f-7370-4fd2-8e79-4a2ae12165e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT">
+      <UniqueIdentifier>{5af4b6af-a3c4-40a1-8649-ace9b8a78fcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\COLLIDER">
+      <UniqueIdentifier>{adc9da18-2316-4fec-bbf7-11f25a1010c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\BIOLOGY">
+      <UniqueIdentifier>{24416fd4-105a-4f1a-a8ca-8e4e0bf5bbaf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\BIOLOGY\PLAYER">
+      <UniqueIdentifier>{64b82664-2c78-4df3-b709-d952f38a21e2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\BIOLOGY\MONSTER">
+      <UniqueIdentifier>{6be4c43d-f148-493b-aae5-cbc608edd824}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\BIOLOGY\MONSTER\ZOMBIE">
+      <UniqueIdentifier>{156766f6-33a7-4535-a222-abe3b4d5a482}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\BIOLOGY\MONSTER\CAKE">
+      <UniqueIdentifier>{637ab842-05ce-4764-8aa9-e7b58fb19b4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ENGINE\GAMEMAINLOOP">
+      <UniqueIdentifier>{387de633-30a2-4904-b272-93b7f1385dac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\BULLET">
+      <UniqueIdentifier>{859b2b44-8b9e-434b-b837-88692e24d104}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\BULLET\ARROW">
+      <UniqueIdentifier>{8df868d5-562d-491b-b08f-c1b67f25807a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\HEART">
+      <UniqueIdentifier>{4347dffc-6f7f-4403-b8de-6e247c75aab7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJECT\BULLET\MONSTERBULLET">
+      <UniqueIdentifier>{49dd34d7-f642-488d-a80e-895fc6d844b2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="WJW_API_Portfolio.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GRAPHICENGINE.h">
+      <Filter>ENGINE\GRAPHICENGINE</Filter>
+    </ClInclude>
+    <ClInclude Include="BIOLOGY.h">
+      <Filter>OBJECT\BIOLOGY</Filter>
+    </ClInclude>
+    <ClInclude Include="PLAYER.h">
+      <Filter>OBJECT\BIOLOGY\PLAYER</Filter>
+    </ClInclude>
+    <ClInclude Include="MONSTER.h">
+      <Filter>OBJECT\BIOLOGY\MONSTER</Filter>
+    </ClInclude>
+    <ClInclude Include="STRING.h">
+      <Filter>STRING</Filter>
+    </ClInclude>
+    <ClInclude Include="ARROW.h">
+      <Filter>OBJECT\BULLET\ARROW</Filter>
+    </ClInclude>
+    <ClInclude Include="ZOMBIE.h">
+      <Filter>OBJECT\BIOLOGY\MONSTER\ZOMBIE</Filter>
+    </ClInclude>
+    <ClInclude Include="GAMEANIENGIN.h">
+      <Filter>ENGINE\GAMEANIENGINE</Filter>
+    </ClInclude>
+    <ClInclude Include="PLAYERENGINE.h">
+      <Filter>ENGINE\PLAYERENGINE</Filter>
+    </ClInclude>
+    <ClInclude Include="MONSTERENGINE.h">
+      <Filter>ENGINE\MONSTERENGINE</Filter>
+    </ClInclude>
+    <ClInclude Include="MONSTER_LIST.h">
+      <Filter>ENGINE\MONSTERENGINE</Filter>
+    </ClInclude>
+    <ClInclude Include="COLLIDER.h">
+      <Filter>OBJECT\COLLIDER</Filter>
+    </ClInclude>
+    <ClInclude Include="OBJECT.h">
+      <Filter>OBJECT</Filter>
+    </ClInclude>
+    <ClInclude Include="GAMEMAINLOOP.h">
+      <Filter>ENGINE\GAMEMAINLOOP</Filter>
+    </ClInclude>
+    <ClInclude Include="BULLET.h">
+      <Filter>OBJECT\BULLET</Filter>
+    </ClInclude>
+    <ClInclude Include="BULLET_LIST.h">
+      <Filter>OBJECT\BULLET</Filter>
+    </ClInclude>
+    <ClInclude Include="HEART.h">
+      <Filter>OBJECT\HEART</Filter>
+    </ClInclude>
+    <ClInclude Include="CAKE.h">
+      <Filter>OBJECT\BIOLOGY\MONSTER\CAKE</Filter>
+    </ClInclude>
+    <ClInclude Include="MONSTERBULLET.h">
+      <Filter>OBJECT\BULLET\MONSTERBULLET</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WJW_API_Portfolio.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="WJW_API_Portfolio.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="WJW_API_Portfolio.cpp" />
+    <ClCompile Include="GRAPHICENGINE.cpp">
+      <Filter>ENGINE\GRAPHICENGINE</Filter>
+    </ClCompile>
+    <ClCompile Include="BIOLOGY.cpp">
+      <Filter>OBJECT\BIOLOGY</Filter>
+    </ClCompile>
+    <ClCompile Include="PLAYER.cpp">
+      <Filter>OBJECT\BIOLOGY\PLAYER</Filter>
+    </ClCompile>
+    <ClCompile Include="MONSTER.cpp">
+      <Filter>OBJECT\BIOLOGY\MONSTER</Filter>
+    </ClCompile>
+    <ClCompile Include="STRING.cpp">
+      <Filter>STRING</Filter>
+    </ClCompile>
+    <ClCompile Include="ARROW.cpp">
+      <Filter>OBJECT\BULLET\ARROW</Filter>
+    </ClCompile>
+    <ClCompile Include="ZOMBIE.cpp">
+      <Filter>OBJECT\BIOLOGY\MONSTER\ZOMBIE</Filter>
+    </ClCompile>
+    <ClCompile Include="GAMEANIENGINE.cpp">
+      <Filter>ENGINE\GAMEANIENGINE</Filter>
+    </ClCompile>
+    <ClCompile Include="PLAYERENGINE.cpp">
+      <Filter>ENGINE\PLAYERENGINE</Filter>
+    </ClCompile>
+    <ClCompile Include="MONSTERENGINE.cpp">
+      <Filter>ENGINE\MONSTERENGINE</Filter>
+    </ClCompile>
+    <ClCompile Include="COLLIDER.cpp">
+      <Filter>OBJECT\COLLIDER</Filter>
+    </ClCompile>
+    <ClCompile Include="OBJECT.cpp">
+      <Filter>OBJECT</Filter>
+    </ClCompile>
+    <ClCompile Include="GAMEMAINLOOP.cpp">
+      <Filter>ENGINE\GAMEMAINLOOP</Filter>
+    </ClCompile>
+    <ClCompile Include="BULLET.cpp">
+      <Filter>OBJECT\BULLET</Filter>
+    </ClCompile>
+    <ClCompile Include="HEART.cpp">
+      <Filter>OBJECT\HEART</Filter>
+    </ClCompile>
+    <ClCompile Include="CAKE.cpp">
+      <Filter>OBJECT\BIOLOGY\MONSTER\CAKE</Filter>
+    </ClCompile>
+    <ClCompile Include="MONSTERBULLET.cpp">
+      <Filter>OBJECT\BULLET\MONSTERBULLET</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

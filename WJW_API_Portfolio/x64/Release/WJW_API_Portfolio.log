@@ -1,0 +1,44 @@
+﻿  ARROW.cpp
+  BIOLOGY.cpp
+  BULLET.cpp
+  CAKE.cpp
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\BULLET.cpp(32,24): warning C4244: '+=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\BULLET.cpp(33,24): warning C4244: '-=': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  COLLIDER.cpp
+  GAMEANIENGINE.cpp
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\GAMEANIENGINE.cpp(18,2): warning C4091: 'extern ': 변수를 선언하지 않으면 'Game_State' 왼쪽은 무시됩니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\GAMEANIENGINE.cpp(271,118): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\GAMEANIENGINE.cpp(274,118): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\GAMEANIENGINE.cpp(287,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\GAMEANIENGINE.cpp(321,57): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\GAMEANIENGINE.cpp(324,71): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GAMEMAINLOOP.cpp
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\GAMEMAINLOOP.cpp(16,2): warning C4091: 'extern ': 변수를 선언하지 않으면 'Game_State' 왼쪽은 무시됩니다.
+  GRAPHICENGINE.cpp
+  HEART.cpp
+  MONSTER.cpp
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\MONSTER.cpp(83,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\MONSTER.cpp(88,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\MONSTER.cpp(93,19): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\MONSTER.cpp(103,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MONSTERBULLET.cpp
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\MONSTERBULLET.cpp(47,24): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MONSTERENGINE.cpp
+  OBJECT.cpp
+  PLAYER.cpp
+  PLAYERENGINE.cpp
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\PLAYERENGINE.cpp(9,2): warning C4091: 'extern ': 변수를 선언하지 않으면 'Game_State' 왼쪽은 무시됩니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\PLAYERENGINE.cpp(69,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\PLAYERENGINE.cpp(74,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\PLAYERENGINE.cpp(80,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\PLAYERENGINE.cpp(87,34): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  STRING.cpp
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\STRING.cpp(16,20): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\WJW_API_Portfolio\STRING.cpp(15,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  WJW_API_Portfolio.cpp
+  ZOMBIE.cpp
+  코드를 생성하고 있습니다.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 344 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  WJW_API_Portfolio.vcxproj -> C:\Portfolio\WIN32API\Project\WJW_API_Portfolio\x64\Release\WJW_API_Portfolio.exe
